@@ -4,7 +4,7 @@ An application, themed by the movie "Weathering with you" that permits you to tr
 ## Getting Started
 ### Prerequisites
 You will need to have Node.js installed. <br />
-You will need to have create-react-app installed. 
+You will need to have create-react-app installed. <br />
 You will need to disable web security disabled on your browser<br />
 
 ### Installing
